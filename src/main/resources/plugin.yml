@@ -1,0 +1,8 @@
+name: CBW_BED
+version: ${project.version}
+main: cbw_bed.cbw_bed.CBW_BED
+api-version: 1.13
+
+commands:
+  task:
+    permission: OP
